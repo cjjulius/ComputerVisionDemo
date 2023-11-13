@@ -11,7 +11,7 @@ using Newtonsoft.Json.Linq;
 using System.Threading;
 using System.Linq;
 
-namespace ComputerVIsionDemo
+namespace ComputerVisionDemo
 {
 
     class Program
